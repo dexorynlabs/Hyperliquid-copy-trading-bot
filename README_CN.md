@@ -54,8 +54,14 @@ python hyperliquid-trading-live-bot.py
 
 ## 联系方式
 
-**Telegram：** [@dexoryn_here](https://t.me/dexoryn_here)  
+**Telegram：** [@dexoryn](https://t.me/dexoryn)  
+**Discord：** dexoryn_  
 **X（推特）：** [@Dexoryn](https://x.com/Dexoryn)
+
+<p align="center">
+  <img src="dexoryn_tg.jpg" height="220" alt="Telegram — @dexoryn" />
+  <img src="dexoryn_wechat.png" height="220" alt="WeChat — DexorynWe" />
+</p>
 
 ---
 
